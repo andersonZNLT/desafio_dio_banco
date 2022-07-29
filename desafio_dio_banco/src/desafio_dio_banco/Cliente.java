@@ -1,6 +1,5 @@
 package desafio_dio_banco;
 
-
 public class Cliente {
 
 	private String nome;
